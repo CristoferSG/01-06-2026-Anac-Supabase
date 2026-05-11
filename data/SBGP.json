@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-05-11T11:41:21.964682+00:00",
+  "updated_at": "2026-05-11T12:07:49.505128+00:00",
   "data_referencia": "2026-05-11",
   "airport_icao": "SBGP",
   "airport_name": "SBGP",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBGP",
+    "sg_aerodromo_iata": "",
+    "descricao": "EMBRAER - UNIDADE GAVIÃO PEIXOTO - GAVIÃO PEIXOTO - SP - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [],
